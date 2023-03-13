@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm pankaj jain</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
-<img align="center"  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ziuf6depzdux9nbwllx9i9ef6unjwwu3sb8rjdef&rid=giphy.gif&ct=g">
+<img align="center" width="100%"  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ziuf6depzdux9nbwllx9i9ef6unjwwu3sb8rjdef&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankubhaiya&label=Profile%20views&color=0e75b6&style=flat" alt="pankubhaiya" /> </p>
 

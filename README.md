@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankubhaiya&label=Profile%20views&color=0e75b6&style=flat" alt="pankubhaiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankubhaiya" alt="pankubhaiya" /></a> </p>
+## 🌐 Socials:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-jain-a5586621b/)
 - 🔭 I’m currently working on **T-metric**
 
 - 🌱 I’m currently learning **Node-js, Express, MongoDB, SQL, AWS**
@@ -20,7 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://www.leetcode.com/pankaj jain](https://leetcode.com/PankuBahiya/)" target="blank"> 
-<a href="https://www.linkedin.com/in/pankaj-jain-a5586621b/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pankaj jain" height="30" width="40" /></a>
 </p>
 
